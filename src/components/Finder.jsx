@@ -46,8 +46,7 @@ const Finder = () => {
           <MdLightMode className="text-[30px]" />
         </div>
       </div>
-      nav stops here
-      {/* searech atart heress */}
+      nav stops here searech atart heress
       <form
         onSubmit={handleSubmit}
         className="bg-[#1F2A48] w-full h-14 py-2 px-2 rounded-xl justify-between flex items-center mt-10 "
