@@ -36,7 +36,7 @@ const Finder = () => {
 
   return (
     <div className=" w-[50%] flex justify-center items-center mx-auto h-screen flex-col text-[#FFFEFE]">
-      nav here below/
+      {/* nav here below/ */}
       <div className=" justify-between w-full flex ">
         <h1 className=" text-3xl font-serif font-bold text-[#FFFEFE] ">
           DevFinder
