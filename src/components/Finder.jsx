@@ -36,7 +36,7 @@ const Finder = () => {
 
   return (
     <div className=" w-[50%] flex justify-center items-center mx-auto h-screen flex-col text-[#FFFEFE]">
-      {/* nav here below  */}
+      nav here below
       <div className=" justify-between w-full flex ">
         <h1 className=" text-3xl font-serif font-bold text-[#FFFEFE] ">
           DevFinder
@@ -47,7 +47,6 @@ const Finder = () => {
         </div>
       </div>
       {/* nav stops here  */}
-
       {/* searech atart here  */}
       <form
         onSubmit={handleSubmit}
@@ -72,7 +71,6 @@ const Finder = () => {
           Submit
         </button>
       </form>
-
       {/* another section brlow  */}
       {data && (
         <div className="bg-[#1F2A48] flex gap-2 w-full mt-10 rounded-xl px-6 py-6 ">
