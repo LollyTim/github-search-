@@ -122,7 +122,7 @@ const Finder = () => {
                 </div>
                 <div className="flex gap-2">
                   <CgOrganisation />
-                  {/* <h1>{data.company === null ? "None" : data.company}</h1> */}
+                  <h1>{data.company === null ? "None" : data.company}</h1>
                 </div>
               </div>
             </div>
