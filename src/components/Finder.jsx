@@ -85,7 +85,7 @@ const Finder = () => {
             <div className="flex justify-between">
               <h1>
                 {data.name} <br /> <span className="">@{data.login}</span>
-                <img src={data.avatar_url} alt="" />
+                {/* <img src={data.avatar_url} alt="" /> */}
               </h1>
               <p>{data.created_at}</p>
             </div>
