@@ -43,7 +43,7 @@ const Finder = () => {
         </h1>
         <div className=" max-w-[200px] flex gap-4 flex-row justify-center items-center">
           <h1 className=" text-xl font-serif font-light">Light</h1>
-          <MdLightMode className="text-[35px]" />
+          <MdLightMode className="text-[30px]" />
         </div>
       </div>
       {/* nav stops here  */}
