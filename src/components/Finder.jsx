@@ -120,7 +120,7 @@ const Finder = () => {
                   <FaTwitter />
                   <a>{data.twitter_username}</a>
                 </div>
-                <div className="flex gap-2">
+                <div className="flex gap-2 items-center">
                   <CgOrganisation />
                   <h1>{data.company === null ? "None" : data.company}</h1>
                 </div>
