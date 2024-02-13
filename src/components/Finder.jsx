@@ -42,7 +42,7 @@ const Finder = () => {
           DevFinder
         </h1>
         <div className=" max-w-[200px] flex gap-4 flex-row justify-center items-center">
-          <h1 className=" text-cl font-serif font-light">Light</h1>
+          <h1 className=" text-xl font-serif font-light">Light</h1>
           <MdLightMode className="text-[35px]" />
         </div>
       </div>
