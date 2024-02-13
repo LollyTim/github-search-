@@ -39,7 +39,7 @@ const Finder = () => {
       {/* nav here below  */}
       <div className=" justify-between w-full flex ">
         <h1 className=" text-3xl font-serif font-bold text-[#FFFEFE] ">
-          BBBFinder
+          DevFinder
         </h1>
         <div className=" max-w-[200px] flex gap-4 flex-row justify-center items-center">
           <h1 className=" text-3xl font-serif font-light">Light</h1>
