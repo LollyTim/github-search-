@@ -106,11 +106,11 @@ const Finder = () => {
             </div>
             <div className="flex justify-between">
               <div>
-                <div className="flex gap-2">
+                <div className="flex gap-2 items-center">
                   <FaLocationDot />
                   <h1>{data.location}</h1>
                 </div>
-                <div className="flex gap-2">
+                <div className="flex gap-2 items-center">
                   <HiLink />
                   <h1>{data.blog === "" ? "None" : data.blog}</h1>
                 </div>
