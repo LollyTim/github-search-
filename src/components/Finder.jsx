@@ -31,7 +31,7 @@ const Finder = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // fetchData();  // No need to call fetchData here, it's handled in useEffect
+    fetchData(); // No need to call fetchData here, it's handled in useEffect
   };
 
   return (
