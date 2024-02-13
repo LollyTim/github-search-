@@ -116,7 +116,7 @@ const Finder = () => {
                 </div>
               </div>
               <div>
-                <div className="flex gap-2">
+                <div className="flex gap-2 items-start ">
                   <FaTwitter />
                   <a>{data.twitter_username}</a>
                 </div>
