@@ -46,7 +46,7 @@ const Finder = () => {
           <MdLightMode className="text-[30px]" />
         </div>
       </div>
-      nav stops heres
+      {/* nav stops here */}
       {/* searech atart heres */}
       <form
         onSubmit={handleSubmit}
